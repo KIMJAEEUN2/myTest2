@@ -15,7 +15,7 @@
 <title>dbcpTest.jsp</title>
 </head>
 <body>
-	<h1>dbcp이용 - 톰캣이 구현한 ConnectionPool 이용</h1>
+	<h1>dbcp이용 - 톰캣이 구현한용</h1>
 <%
 	Connection con=null;
 	PreparedStatement ps=null;
